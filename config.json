@@ -1,0 +1,22 @@
+[
+    {
+        "username": "brazil",
+        "password": "password",
+        "proxy": {
+            "ip": "194.88.106.169",
+            "port": 9999,
+            "username": "7hvlp9irzx-corp.mobile.res-country-BR-state-3392268-city-3390760-hold-session-session-66d0b99917ea8",
+            "password": "m0B7g7qpTTTD51aW"
+        }
+    },
+    {
+        "username": "finland",
+        "password": "password",
+        "proxy": {
+            "ip": "194.88.106.169",
+            "port": 9999,
+            "username": "7hvlp9irzx-corp.mobile.res-country-FI-city-658225-hold-session-session-66dda7c19d8cc",
+            "password": "m0B7g7qpTTTD51aW"
+        }
+    }
+]
